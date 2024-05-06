@@ -1,16 +1,46 @@
 {
   "products": [
     {
-      "id": "2",
-      "name": "Printer",
-      "price": 2000,
-      "checked": false
-    },
-    {
       "id": "4",
       "name": "smartphone",
       "price": 1500,
       "checked": false
+    },
+    {
+      "id": "f9e1",
+      "name": "SAMSUN S22",
+      "price": "3000",
+      "checked": ""
+    },
+    {
+      "id": "9d24",
+      "name": "SAMSUN S22",
+      "price": "9000",
+      "checked": ""
+    },
+    {
+      "id": "a1ea",
+      "name": "SAMSUN S22",
+      "price": "9000",
+      "checked": ""
+    },
+    {
+      "id": "77ec",
+      "name": "",
+      "price": "08888",
+      "checked": true
+    },
+    {
+      "id": "5c65",
+      "name": "",
+      "price": "08888",
+      "checked": true
+    },
+    {
+      "id": "d3a0",
+      "name": "",
+      "price": 0,
+      "checked": ""
     }
   ]
 }
