@@ -25,12 +25,6 @@
       "checked": ""
     },
     {
-      "id": "77ec",
-      "name": "",
-      "price": "08888",
-      "checked": true
-    },
-    {
       "id": "5c65",
       "name": "",
       "price": "08888",
@@ -39,6 +33,12 @@
     {
       "id": "d3a0",
       "name": "",
+      "price": 0,
+      "checked": ""
+    },
+    {
+      "id": "99ea",
+      "name": "wiam miftah",
       "price": 0,
       "checked": ""
     }
