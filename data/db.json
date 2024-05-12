@@ -1,160 +1,85 @@
 {
+  "users": [
+    {
+      "id": "admin",
+      "password": "admin&123",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiYW5hcyIsImxhc3RuYW1lIjoiZXJyYW1pIiwiZW1haWwiOiJhbmFzQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.xKKTlCn6AzJHdsuPXL8q2XTt4_XIzRvkFLLNJcxw--8"
+    },
+    {
+      "id": "user1",
+      "password": "user&123",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiYW5hcyIsImxhc3RuYW1lIjoiZXJyYW1pIiwiZW1haWwiOiJhbmFzQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.zxhUcmlpdayhqFJAic5sfDs6ujWca2_Ohe7WV0KmSJo"
+    },
+    {
+      "id": "user2",
+      "password": "user&123",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiYW5hcyIsImxhc3RuYW1lIjoiZXJyYW1pIiwiZW1haWwiOiJhbmFzQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.u91fDWOJY9CKcZORK_ObW0kLgkbh9OTCAgPg6EBWXik"
+    }
+  ],
   "products": [
     {
-      "id": "4",
-      "name": "smartphone",
-      "price": 1500,
+      "id": "d283",
+      "name": "Product 1",
+      "price": 1000,
+      "checked": false
+    },
+    {
+      "id": "4b60",
+      "name": "Product 2",
+      "price": 2300,
+      "checked": false
+    },
+    {
+      "id": "8fe8",
+      "name": "Product 3",
+      "price": 9872,
       "checked": true
     },
     {
-      "id": "f9e1",
-      "name": "SAMSUN S22",
-      "price": "3000",
+      "id": "5569",
+      "name": "Product 4",
+      "price": 8907,
       "checked": true
     },
     {
-      "id": "9d24",
-      "name": "SAMSUN S22",
-      "price": "9000",
+      "id": "34c7",
+      "name": "Product 5",
+      "price": 5000,
+      "checked": false
+    },
+    {
+      "id": "3ce1",
+      "name": "Product 6",
+      "price": 6000,
       "checked": true
     },
     {
-      "id": "a1ea",
-      "name": "SAMSUN S22",
-      "price": "9000",
-      "checked": ""
+      "id": "87eb",
+      "name": "Product 7",
+      "price": 7000,
+      "checked": false
     },
     {
-      "id": "5c65",
-      "name": "",
-      "price": "08888",
+      "id": "89a9",
+      "name": "Product 8",
+      "price": 8000,
       "checked": true
     },
     {
-      "id": "d3a0",
-      "name": "",
-      "price": 0,
-      "checked": ""
-    },
-    {
-      "id": "99ea",
-      "name": "wiam miftah",
-      "price": 0,
-      "checked": ""
-    },
-    {
-      "name": "ww",
-      "price": 0,
-      "checked": true,
-      "id": "20I7xz8"
-    },
-    {
-      "name": "ww",
-      "price": 0,
-      "checked": true,
-      "id": "YfKRcRH"
-    },
-    {
-      "name": "ww",
-      "price": 0,
-      "checked": true,
-      "id": "rtrjVZ7"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "_nAK0gd"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": "066666",
-      "checked": false,
-      "id": "UYJeeCZ"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "wwkxikci",
-      "price": 0,
-      "checked": true,
-      "id": "fCD8KwD"
-    },
-    {
-      "name": "sssoo",
-      "price": "0hsh",
-      "checked": true,
-      "id": "RgoC_gI"
-    },
-    {
-      "name": "sssoo",
-      "price": "0hsh",
-      "checked": true,
-      "id": "m0myj1_"
+      "id": "4b82",
+      "name": "Product 9",
+      "price": 7200,
+      "checked": false
     }
   ]
 }
